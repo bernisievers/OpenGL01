@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|solutionrelative:tutorialOpenGL\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\fragment_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|solutionrelative:tutorialOpenGL\\assets\\fragment_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\vertex_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|solutionrelative:tutorialOpenGL\\assets\\vertex_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\lib\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AF824F6-9C8F-4420-B460-D74FE3667878}|tutorialOpenGL\\tutorialOpenGL.vcxproj|solutionrelative:tutorialOpenGL\\lib\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fragment_core.glsl",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\fragment_core.glsl",
+              "RelativeDocumentMoniker": "tutorialOpenGL\\assets\\fragment_core.glsl",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\fragment_core.glsl",
+              "RelativeToolTip": "tutorialOpenGL\\assets\\fragment_core.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T02:38:01.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertex_core.glsl",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\vertex_core.glsl",
+              "RelativeDocumentMoniker": "tutorialOpenGL\\assets\\vertex_core.glsl",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\assets\\vertex_core.glsl",
+              "RelativeToolTip": "tutorialOpenGL\\assets\\vertex_core.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T02:38:28.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stb.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\lib\\stb.cpp",
+              "RelativeDocumentMoniker": "tutorialOpenGL\\lib\\stb.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\lib\\stb.cpp",
+              "RelativeToolTip": "tutorialOpenGL\\lib\\stb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T02:21:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\src\\main.cpp",
+              "RelativeDocumentMoniker": "tutorialOpenGL\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\tutorialOpenGL\\tutorialOpenGL\\src\\main.cpp",
+              "RelativeToolTip": "tutorialOpenGL\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:30:59.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
